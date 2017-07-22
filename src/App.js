@@ -5,7 +5,7 @@ class App extends React.Component {
   constructor(){
     super();
     this.state={
-      input: '/*add our jsc here*/',
+      input: '/*add your jsx here*/',
       output:'',
       err:''
     }
